@@ -1,0 +1,27 @@
+li{
+  padding-top: 15px;
+}
+body{
+  background: linear-gradient(#4fc3f7, #03a9f4);
+  color: white;
+  font-size: 18px;
+  margin: 0px;
+  width: 100%;
+}
+nav{
+  background: linear-gradient(grey,white);
+
+}
+footer{
+  background:linear-gradient(white,grey);
+}
+.photo_profil{
+  width: 100%;
+  -webkit-border-radius: 15px;
+  border-radius: 15px;
+  overflow: hidden;
+  -webkit-transform:rotate(270deg);
+}
+.list{
+  /*display: inline-flex;*/
+}
